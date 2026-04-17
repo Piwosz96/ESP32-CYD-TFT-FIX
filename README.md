@@ -1,3 +1,10 @@
+![ESP32](https://img.shields.io/badge/ESP32-CYD-blue)
+![Display](https://img.shields.io/badge/TFT-ST7789-green)
+![Library](https://img.shields.io/badge/LovyanGFX-working-orange)
+
+
+
+
 # ESP32-CYD-TFT-FIX
 Reliable fix for ESP32-2432S028R (CYD) TFT display. Uses ST7789 + LovyanGFX to eliminate glitches, wrong colors and flickering. Includes working UI, WiFi status and real-time clock.
 # ESP32-2432S028R (CYD) – działający TFT + WiFi + czas
