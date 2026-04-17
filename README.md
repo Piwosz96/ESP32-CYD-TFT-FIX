@@ -2,7 +2,7 @@
 ![Display](https://img.shields.io/badge/TFT-ST7789-green)
 ![Library](https://img.shields.io/badge/LovyanGFX-working-orange)
 
-
+🇵🇱 Polish | 🇬🇧 English: README_EN.md
 
 
 # ESP32-CYD-TFT-FIX
