@@ -3,8 +3,8 @@
 #include <time.h>
 
 // WIFI
-const char* ssid = "Stargate2.4";
-const char* password = "Franek2020Piwosz";
+const char* ssid = "Enter Your WiFi SSID";
+const char* password = "Enter Your WiFi Password";
 
 // CZAS
 const char* ntpServer = "pool.ntp.org";
