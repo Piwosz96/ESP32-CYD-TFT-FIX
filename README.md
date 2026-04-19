@@ -1,5 +1,6 @@
 ![ESP32](https://img.shields.io/badge/ESP32-CYD-blue)
 ![Display](https://img.shields.io/badge/TFT-ST7789-green)
+![Display](https://img.shields.io/badge/TFT-ILI99741-yellow)
 ![Library](https://img.shields.io/badge/LovyanGFX-working-orange)
 
 🇵🇱 Polish | 🇬🇧 English: [Readme_EN.md](README_EN.md)
