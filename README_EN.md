@@ -1,3 +1,8 @@
+![ESP32](https://img.shields.io/badge/ESP32-CYD-blue)
+![Display](https://img.shields.io/badge/TFT-ST7789-green)
+![Display](https://img.shields.io/badge/TFT-ILI9341-yellow)
+![Library](https://img.shields.io/badge/LovyanGFX-working-orange)
+
 🇬🇧 English | 🇵🇱 Polish: [README.md](README.md)
 
 # ESP32-2432S028R (CYD) – Working TFT + WiFi + Time
